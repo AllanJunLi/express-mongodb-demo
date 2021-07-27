@@ -1,5 +1,5 @@
 # Rest API Demo
-Demo A Restful Api With Node.js Express &amp; MongoDB
+Demo restful API with Node.js Express &amp; MongoDB
 
 
 ### `npm run start`
